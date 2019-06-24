@@ -9,7 +9,7 @@
 <bitbar.author.github>carnevalle</bitbar.author.github>
 <bitbar.desc>90minutter.dk is a news aggregator for the danish football club Brøndby IF. This plugin shows the latest 15 articles.</bitbar.desc>
 <bitbar.image></bitbar.image>
-<bitbar.dependencies>php, composer, guzzlehttp/guzzle</bitbar.dependencies>
+<bitbar.dependencies>php</bitbar.dependencies>
 <bitbar.abouturl>https://github.com/carnevalle/90minutter-bitbar</bitbar.abouturl>
 */
 /* MIT Licensed https://opensource.org/licenses/MIT */
