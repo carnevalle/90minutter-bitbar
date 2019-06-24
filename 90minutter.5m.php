@@ -12,7 +12,6 @@
 <bitbar.dependencies>php</bitbar.dependencies>
 <bitbar.abouturl>https://github.com/carnevalle/90minutter-bitbar</bitbar.abouturl>
 */
-/* MIT Licensed https://opensource.org/licenses/MIT */
 
 /**
  * BitBar display
